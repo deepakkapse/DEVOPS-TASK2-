@@ -1,10 +1,14 @@
 # DEVOPS-TASK2-
-DEVops technology
-MLOPS Task3 This repository is just for practise to explore more jenkins usecases in deep
-Here i have integrated jenkins with github and webserver
+<h1>DEVops technology</h1>
 
-Jenkins Role
-The jenkins check periodically in github and if any changes committed in github.jenkins deploy it automatically into webserver
+MLOPS Task3
+This repository has dockerfile where we host webserver
+This repository is just for practise to explore more jenkins usecases in deep<br>
+Here i have integrated jenkins with github and webserver<br>
+
+<h2>Jenkins Role</h2>
+The jenkins check periodically in github and if any changes committed in github.jenkins deploy it automatically into webserver<br>
 We have PollScm option which makes jenkins to only deploy when changes in github occurs
-In Local repo
-we have created a bash script file called "POST-COMMIT" to make automatic push to github repo by just commiting it in local repo
+
+<h2>In Local repo</h2>
+we have created a bash script file called "POST-COMMIT" to make automatic push to github repo by just  commiting it in local repo  
