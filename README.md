@@ -1,4 +1,4 @@
-# DEVOPS-TASK3-
+# MLOPS-TASK3-
 <h1>DEVops technology</h1>
 
 MLOPS Task3
